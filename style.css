@@ -1,0 +1,281 @@
+body{
+    margin-left: 30px;
+    background-image: url("./images/BAC.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner h1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+    color:black;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 50%;
+    
+}
+.banner span{
+    color: white;
+}
+
+.footer
+{
+    width: 100%;
+    background-color: b;
+}
+
+.main
+{
+    margin-top:5%;
+    background-color: black;
+    width: 98%;
+    height: 330px;
+    padding: 5px;
+    padding-top: 20px;
+    padding-right: 0px;
+}
+.box1
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./Images/sidhu.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.box2
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/amrit.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.box3
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/mankrit.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box4
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Jordan.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box5
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Dijit.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box6
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/jass\ manak.jpeg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box7
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Guro.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box8
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Guru.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box9
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Gaba.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box10
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Kaaka.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box11
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Kambi.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box12
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Ap.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box13
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Arman.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box14
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Amit-saini.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box15
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Khassa.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box16
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Ajay-hooda.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box17
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Sumit.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.box18
+{
+    width: 150px;
+    height: 150px;
+    background-color: navy;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+    background-image: url("./images/Jassi.jpg");
+    background-position: center;
+    background-size:cover;
+}
+
+.btn1
+{
+    width: 50%;
+    height: 30%;
+    float: left;
+    margin-top: 70%;
+    background-color: gold;
+    
+}
